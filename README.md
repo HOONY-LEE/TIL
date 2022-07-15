@@ -1,5 +1,7 @@
 # TIL
 
+Today I Learned
+
 # INDEX
 - [Markdown](https://github.com/HOONY-LEE/TIL/blob/master/Markdown/Markdown.md)
 - [Git/ Github](https://github.com/HOONY-LEE/TIL/blob/master/Git/Git.md)
@@ -7,5 +9,4 @@
 - [Database](https://github.com/HOONY-LEE/TIL/blob/master/Database)
 - [Java](https://github.com/HOONY-LEE/TIL/blob/master/Java)
 - [Algorithm](https://github.com/HOONY-LEE/TIL/blob/master/Algorithm)
-
 
