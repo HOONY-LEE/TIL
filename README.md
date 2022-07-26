@@ -13,3 +13,4 @@ Today I Learned
 -git commits
 
 매일매일 배운것 하나씩 기록해놓기
+오늘은 무엇을 배웠을까요!!
