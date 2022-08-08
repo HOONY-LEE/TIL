@@ -19,6 +19,5 @@ HTML
 CSS
 JAVASCRIPT
 Bootstrap
-ㅇㄹㅇㄹㅇㄹ
-
+ㅇㄹ
 
