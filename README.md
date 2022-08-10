@@ -22,7 +22,4 @@ Bootstrap
 dfdfwdwdsd
 yuyytytyt
 jk
-ㅇㄹㅇㄹ
-ㅇㄹㅇㄹ
-ㅇㄹㅇㄹ
-ㅇㄹㅇ
+
