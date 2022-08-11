@@ -20,6 +20,5 @@ CSS
 JAVASCRIPT
 Bootstrap
 dfdfwdwdsd
-yuyytytyt
-jk
+
 sdsd
