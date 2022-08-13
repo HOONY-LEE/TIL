@@ -20,6 +20,4 @@ CSS
 JAVASCRIPT
 Bootstrap
 
-scsd
-sdsd
-sdsdassd
+
