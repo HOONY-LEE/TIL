@@ -21,5 +21,4 @@ JAVASCRIPT
 Bootstrap
 
 sdsd
-sdsdsss
 sd
