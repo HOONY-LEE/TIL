@@ -20,6 +20,3 @@ CSS
 JAVASCRIPT
 Bootstrap
 
-
-ㅇㄹㅇㄹ
-sdsd
