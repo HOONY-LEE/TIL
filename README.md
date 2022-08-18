@@ -21,6 +21,4 @@ JAVASCRIPT
 Bootstrap
 
 
-dsd
-dfdf
-dfdf
+sdf
