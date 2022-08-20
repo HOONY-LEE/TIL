@@ -22,7 +22,4 @@ Bootstrap
 
 
 sdf
-
-ㅇㄹ
-ㅇㄹㅇㄹ
-ㅇㄹ
+DF
