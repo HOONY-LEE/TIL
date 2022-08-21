@@ -21,8 +21,4 @@ JAVASCRIPT
 Bootstrap
 
 
-sdf
-DFDFㅇㄹㅇㄹ
-DF
-DF
-ㅇㄹㅇㄹ
+
