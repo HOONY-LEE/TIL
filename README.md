@@ -19,9 +19,3 @@ HTML
 CSS
 JAVASCRIPT
 Bootstrap
-
-dfdf
-dfdfdf
-dfdfdf
-dfdfdf
-asdf
