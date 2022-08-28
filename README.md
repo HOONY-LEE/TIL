@@ -19,6 +19,3 @@ HTML
 CSS
 JAVASCRIPT
 Bootstrap
-RTRT
-dfdf
-dfdfdfdfdf
