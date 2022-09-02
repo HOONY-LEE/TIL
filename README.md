@@ -20,6 +20,5 @@ CSS
 JAVASCRIPT
 Bootstrap
 ㅇㄹㅇㄹ
-ㄷㄱ
-ㅇㄹㅇㄹ
+ㅇㄹ
 ㅇㄹㅇㄹ
