@@ -19,9 +19,3 @@ HTML
 CSS
 JAVASCRIPT
 Bootstrap
-ㅇㄹㅇㄹ
-ㅇㄹ
-ㅇㄹㅇㄹ
-ㄷㄱㄷㄱ
-ㅇㄹㅇ
-ㅇㄹ
