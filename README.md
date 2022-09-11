@@ -20,15 +20,3 @@ CSS
 JAVASCRIPT
 Bootstrap
 dfdf
-dfdfd
-dfdf
-dfdf
-dfdf
-dfdf
-dfdf
-df
-dfdfdfdf
-dfdfdfdf
-dfdfㅇㄹㅇㄹㅇㄹㅇㄹ
-ㅇㄹㅇㄹㅇㄹㅇ
-ㅇㄹㅇㄹㅇㄹㅇㄹ
