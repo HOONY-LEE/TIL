@@ -22,5 +22,4 @@ Bootstrap
 
 sdsd
 sdsd
-sdsdsdsddfdf
-dfdfdfdf
+sdsdsddf
