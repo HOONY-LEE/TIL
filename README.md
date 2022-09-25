@@ -26,8 +26,7 @@ sdsdsddf
 dfdfdfdf
 dfdfdfdfdf
 dfdfdf
-dfdfddfdfdfdfddd
-dfdf
+dfdfdd
 ㅇㄹㅇㄹdfdf
 dfdfdfdfdfdfdfdf
 dfdfdfdfdf
