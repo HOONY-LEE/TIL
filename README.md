@@ -30,5 +30,4 @@ dfdfddㅇㄹㅇㄹ
 ㅇㄹㅇㄹdfdfsdfasdf
 dfdfdfdfdfdfdfdfㅇㄹㅇㄹ
 dfdfdfdfdfddㅇㄹㅇㄹㅇㄹㅇdfdfㄹㅇdfdfㄹ
-dddfdfDFDFDFDFㅇㄹㅇㄹㅇ
-dfdfdfFDFDFdfdf
+dddfdfDFDFDFDFㅇㄹㅇㄹㅇㄹㅇㄹ
