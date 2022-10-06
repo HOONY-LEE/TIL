@@ -19,15 +19,4 @@ HTML
 CSS
 JAVASCRIPT
 Bootstrap
-dfdf
-sdsddfdf
-sdsddf
-sdsdsddf
-dfdfdfdfㅇㄹㅇㄹdfdfdfㅇㄹㅇㄹ
-dfdfdfdfdf
-dfdfdf
-dfdfddㅇㄹㅇㄹ
-ㅇㄹㅇㄹdfdfsdfasdf
-dfdfdfdfdfdfdfdfㅇㄹㅇㄹ
-dfdfdfdfdfddㅇㄹㅇㄹㅇㄹㅇdfdfㄹㅇdfdfㄹ
-dddfdfDFDFDFDFㅇㄹㅇㄹㅇㄹㅇㄹ
+
