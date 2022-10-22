@@ -28,5 +28,4 @@ dfdf
 dfdfdfdfㅇㄹㅇㄹㅇㄹㅇㄹ
 dfdfdㅇㄹㅇㄹfdfㄴㅇㄴㅇ
 ㅇㄹㅇㄹdfdfdf
-ㅇㄹㅇㄹdf
-df
+ㅇㄹdf
