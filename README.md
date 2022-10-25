@@ -21,16 +21,3 @@ HTML
 CSSdfdf
 JAVASCRIPT
 Bootstrap
-dfdfdf
-dfdfdf
-dfdfdfdfdfdfdfdf
-dfdfsdsdsd
-dfdfdfdfdfdfdfdfdf
-dfdf
-dfdfdfdfㅇㄹㅇㄹㅇㄹㅇㄹdfdf
-dfdfdㅇㄹㅇㄹfdfㄴㅇㄴㅇ
-ㅇㄹㅇㄹdfdfdf
-ㅇㄹdf
-sdsddfdfdfㅇㄹㅇㄹㅇㄹ
-dfdfㅇㄹㅇㄹ
-dfdfdfdfdfdfdf
