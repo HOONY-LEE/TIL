@@ -25,7 +25,7 @@ Vue.js
 Node.js
 Django
 Swift
-Flutter
+Flutterㅇㄹㅇ
 
 
 
