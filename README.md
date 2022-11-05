@@ -20,7 +20,7 @@ ALGORYTHM
 HTML
 CSS
 JAVASCRIPT
-Bootstrap
+Bootstrapdfdf
 Vue.js
 Node.js
 Django
