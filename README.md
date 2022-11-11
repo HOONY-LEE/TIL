@@ -25,10 +25,8 @@ Vue.js
 Node.js
 Django
 Swift
-Flutterㅇㄹㅇ
+Flutter
 
-dfdfdfdfdfdfdf
-dfdf
 ==========================================================================
 dfdfdf
 dfdfdf
