@@ -32,7 +32,7 @@ dfdfdfdfdasadsㄴㅇㄴㅇ
 ㅇㄹㅇㄹㅇ
 ㅇㄹㅇㄹ
 dfdfdfdf
-ㅇㄹㅇㄹdfㅇㄹㅇㄹdfdf
+ㅇㄹㅇㄹdfㅇㄹㅇㄹdfdfdfdf
 dfdf
 dfㅇㄹㅇㄹ
 ㅇㄹ
