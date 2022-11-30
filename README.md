@@ -28,20 +28,4 @@ Swift
 Flutter
 
 ========================================================df==================
-dfdfdfdfdasadsㄴㅇㄴㅇ
-ㅇㄹㅇㄹㅇsdsd
-ㅇㄹㅇㄹsdsds
-dfdfdfdfㅊㅊㅎ
-ㅇㄹㅇㄹdfㅇㄹㅇㄹdㄴㅇㄹㄴㅇㄹfdfdfdfsdsdddd
-dfdf
-dfㅇㄹㅇㄹ
-ㅇㄹ
-dfdㅇㄹㅇㄹf
-ㄴㅇㄹㄴㅇㄹ
 
-ㅇㄹㅇㄹ
-ㅇㄹㅇㄹdfdfdfdffgfg
-ㅇㄹㅇㄹ
-dfdf
-dㅇㄹㅇㅇㄹㅇㄹ
-dd
