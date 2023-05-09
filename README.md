@@ -14,7 +14,7 @@ Today I Learned
 
 -git commits
 
-df
+
 MARKDOWN
 ALGORYTHM
 HTML
@@ -27,4 +27,7 @@ Django
 Swift
 Flutter
 
+
 ==========================================================================
+
+fgf
