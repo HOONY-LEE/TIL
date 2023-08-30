@@ -8,7 +8,7 @@ Today I Learned
 - [Python](https://github.com/HOONY-LEE/TIL/blob/master/Python)
 - [Database](https://github.com/HOONY-LEE/TIL/blob/master/Database)
 - [Java](https://github.com/HOONY-LEE/TIL/blob/master/Java)
-- [Algorithm](https://github.com/HOONY-LEE/TIL/blob/master/Algorithm)ㅇ
+- [Algorithm](https://github.com/HOONY-LEE/TIL/blob/master/Algorithm)
 - [Django](https://github.com/HOONY-LEE/TIL/blob/master/Django)
 - [Spring](https://github.com/HOONY-LEE/TIL/blob/master/Spring)
 - [Three.js](https://github.com/HOONY-LEE/TIL/blob/master/Spring)
