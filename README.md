@@ -20,3 +20,8 @@ Today I Learned
 - [Three.js](https://github.com/HOONY-LEE/TIL/blob/master/Spring)
 - [Next.js](https://github.com/HOONY-LEE/TIL/blob/master/Spring)
 
+
+
+
+#2023.09.01
+티맥스 첫 출근, 한 시간 일찍 도착했다. 앞으로도 일찍 다니는게 좋아보인다. 생각보다 출근길이 사람이 많다. 집에서 30분 정도 걸리는듯
